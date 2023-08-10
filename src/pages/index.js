@@ -137,7 +137,7 @@ export default function Home() {
                 </p>
 
                 <button
-                  className={`h-14 rounded-full w-52 border-[#2ec4b6] border ${theseasons.className}`}
+                  className={`h-14 rounded-[100%] w-52 border-[#2ec4b6] border ${theseasons.className}`}
                 >
                   Contact Us
                 </button>
