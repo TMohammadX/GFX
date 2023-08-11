@@ -71,7 +71,7 @@ export default function Home() {
 
                 <div className="h-[90vh] z-[5] w-[90%] left-1/2 top-[7.8%] 2xl:top-[7%]  bg-[#707070] -translate-x-1/2 overflow-hidden rounded-3xl absolute">
                   <video
-                    src="/videos/ss.mp4"
+                    src="/videos/ssss.mp4"
                     autoPlay
                     muted
                     loop
